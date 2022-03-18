@@ -11,9 +11,9 @@ This is  Capstone solo project for Module one. Microverse Technical Curriculum s
 - Git and GitHub
 
 ## Live Demo (if available)
-![climate-desktop](https://user-images.githubusercontent.com/18019955/158822213-57608178-24c3-49f0-a597-86872de89729.png)
+![desktop-version](https://user-images.githubusercontent.com/18019955/159040875-97c3bacd-00d7-45c0-9bf6-2fe0cf79a4c1.png)
 
-![climate-mobile](https://user-images.githubusercontent.com/18019955/158822340-203183fa-cd49-450b-8ba1-1efc6c23a76a.png)
+![mobileversion](https://user-images.githubusercontent.com/18019955/159040974-81ad18a4-1f02-41c7-add0-5e984e0a1a15.png)
 
 
 - You can acces a live version of the project [Here](https://dfizzkruah93.github.io/Capstone-Project/)
