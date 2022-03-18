@@ -16,7 +16,7 @@ This is  Capstone solo project for Module one. Microverse Technical Curriculum s
 ![climate-mobile](https://user-images.githubusercontent.com/18019955/158822340-203183fa-cd49-450b-8ba1-1efc6c23a76a.png)
 
 
-- You can acces a live version of the project [Here](https://d2ndjim.github.io/Capstone-Conference/)
+- You can acces a live version of the project [Here]()
 
 To get a local copy up and running follow these simple example steps.
 
@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 - VS code
 - Git Bash
 ### Setup
-- run the command on your git bash terminal: git clone `https://github.com/d2ndjim/Capstone-Conference.git`
+- run the command on your git bash terminal: git clone `git@github.com:dfizzkruah93/Capstone-Project.git`
 ## Authors
 
 👤 **George D. Kruah**
