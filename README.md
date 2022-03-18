@@ -29,9 +29,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **George D. Kruah**
 
-- GitHub: [@d2ndjim](https://github.com/dfizzkruah93)
-- Twitter: [@d2ndjim](https://twitter.com/DKruah)
-- LinkedIn: [Lekan Jimoh](https://linkedin.com/in/George D Kruah)
+- GitHub: [@dfizzkruah93](https://github.com/dfizzkruah93)
+- Twitter: [@DKruah](https://twitter.com/DKruah)
+- LinkedIn: [George D Kruah(https://linkedin.com/in/George D Kruah)
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
