@@ -43,7 +43,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to Cindy Shin whose design was used to create the project
+- Hat tip to appropriate credit to Cindy Shin the author of the original design whose design was used to create the project
 - Hat tip to @microverseinc for putting this project together
 ## 📝 License
 
