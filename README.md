@@ -4,6 +4,7 @@
 
 This is  Capstone solo project for Module one. Microverse Technical Curriculum section. This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin, but I have personalised the content.
 
+## See a short description of the project [here](https://www.loom.com/share/ac59245b4991451cab1d34ba9bf3c8b4)
 
 ## Built With
 
