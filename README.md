@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@dfizzkruah93](https://github.com/dfizzkruah93)
 - Twitter: [@DKruah](https://twitter.com/DKruah)
-- LinkedIn: (https://linkedin.com/in/George
+- LinkedIn: (https://linkedin.com/in/george-d-kruah-2775ab180
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
