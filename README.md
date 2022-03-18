@@ -44,7 +44,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Original design idea by <a href="https://www.behance.net/adagio07">Cindy Shin in Behance</a>.
-- 
+- Hat tip to anyone whose code was used.
 - Hat tip to @microverseinc for putting this project together
 ## 📝 License
 
