@@ -12,6 +12,8 @@ This is  Capstone solo project for Module one. Microverse Technical Curriculum s
 
 ## Live Demo (if available)
 ![desktop-version](https://user-images.githubusercontent.com/18019955/159040875-97c3bacd-00d7-45c0-9bf6-2fe0cf79a4c1.png)
+
+
 ![mobileversion](https://user-images.githubusercontent.com/18019955/159040974-81ad18a4-1f02-41c7-add0-5e984e0a1a15.png)
 
 
