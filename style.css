@@ -45,13 +45,6 @@ a {
   align-items: center;
   width: 100%;
   height: auto;
-}
-
-.logo-climate i {
-  color: #ec5442;
-}
-
-.logo-climate p {
   padding-top: 0.1rem;
   text-align: center;
   margin-left: 0.5rem;
@@ -88,7 +81,6 @@ nav {
   color: inherit;
 }
 
-
 .campaign {
   width: 160px;
   border: 3px solid #ec5442;
@@ -100,7 +92,6 @@ nav {
   margin-left: 2rem;
   text-align: center;
 }
-
 
 .logo {
   margin: 2rem 2rem 1rem;
@@ -194,6 +185,16 @@ hr {
   padding: 1rem;
 }
 
+.logo-campaign {
+  display: flex;
+  align-items: stretch;
+  text-align: center;
+  border: 3px solid #d3d3d3;
+  background-color: white;
+  padding: 1.5rem 13rem;
+  margin: 1rem 2rem 0.5rem;
+}
+
 .program-icon {
   width: 50px;
   height: 50px;
@@ -220,7 +221,7 @@ hr {
 }
 
 .program-link {
-  display: none;
+  text-decoration: underline;
 }
 
 .featured-speaker {
