@@ -23,7 +23,7 @@ const speakers = [
       'American Business Magnate, Investor, Computer Scientist, and Internet Entrepreneur',
     description:
       'Sergy Brin is the Co-founder of Google',
-    photo: './images/Sergey_Brin.jpg',
+    photo: './images/sergey.jpg',
     alt: 'Brin',
   },
   {
@@ -41,7 +41,7 @@ const speakers = [
       ' Computer Scientist, Investor and Internet Entrepreneur',
     description:
       'Larry Page is the Co-founders of Google ',
-    photo: './images/larry.jpg',
+    photo: './images/larry_page.jpg',
     alt: 'Page',
   },
   {
@@ -68,7 +68,7 @@ const speakers = [
       'Founder',
     description:
       ' Co-founder of Aurora Solar and chairman of E.quinox, a charitable organization at Imperial College London,',
-    photo: './images/chris-hopper.jpg',
+    photo: './images/aurora.jpg',
     alt: 'Hopper',
   },
 ];

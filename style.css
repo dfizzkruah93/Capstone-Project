@@ -45,6 +45,17 @@ a {
   align-items: center;
   width: 100%;
   height: auto;
+}
+
+.logo-contain {
+  text-align: center;
+  border: 3px solid #d3d3d3;
+  background-color: white;
+  padding: 1.5rem 12rem;
+  margin: 0.5rem 3rem;
+}
+
+.logo-climate p {
   padding-top: 0.1rem;
   text-align: center;
   margin-left: 0.5rem;
@@ -183,16 +194,6 @@ hr {
   margin-bottom: 0.5rem;
   align-items: center;
   padding: 1rem;
-}
-
-.logo-campaign {
-  display: flex;
-  align-items: stretch;
-  text-align: center;
-  border: 3px solid #d3d3d3;
-  background-color: white;
-  padding: 1.5rem 13rem;
-  margin: 1rem 2rem 0.5rem;
 }
 
 .program-icon {
