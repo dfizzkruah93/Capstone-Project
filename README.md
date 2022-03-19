@@ -1,6 +1,6 @@
 # ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# # Global-Climate-Fixing-Conference Capstone-Project
+# # Capstone-Project
 
 This is  Capstone solo project for Module one. Microverse Technical Curriculum section. This Project is based on an online website for a conference. I have followed the given design of the website CC Global Summit 2015 by Cindy Shin, but I have personalised the content.
 
@@ -17,7 +17,7 @@ This is  Capstone solo project for Module one. Microverse Technical Curriculum s
 ![mobileversion](https://user-images.githubusercontent.com/18019955/159040974-81ad18a4-1f02-41c7-add0-5e984e0a1a15.png)
 
 
-- You can acces a live version of the project [Here](https://dfizzkruah93.github.io/Capstone-Project/)
+- You can acces a live version of the project [Here])
 
 To get a local copy up and running follow these simple example steps.
 
