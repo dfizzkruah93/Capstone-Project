@@ -10,7 +10,7 @@ This is  Capstone solo project for Module one. Microverse Technical Curriculum s
 
 ## See a short description of the project 
 
-https://www.loom.com/share/fca2b53fe16145ec856436e1dcb6c880
+https://www.loom.com/share/1a8c87aecde34f21b92e93a161e48461
 
 
 
